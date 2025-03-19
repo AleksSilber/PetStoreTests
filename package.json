@@ -1,0 +1,25 @@
+{
+  "name": "petstoretests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tests.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksSilber/PetStoreTests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AleksSilber/PetStoreTests/issues"
+  },
+  "homepage": "https://github.com/AleksSilber/PetStoreTests#readme",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
